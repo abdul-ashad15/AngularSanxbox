@@ -1,2 +1,0 @@
-# AngularSanxbox
-Created with CodeSandbox
